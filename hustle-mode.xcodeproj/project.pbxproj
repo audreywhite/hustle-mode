@@ -22,6 +22,7 @@
 		E3AD63C01F293850001BE76B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3AD63C31F293850001BE76B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3AD63C51F293850001BE76B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3AD63CB1F293900001BE76B /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		E3AD63B81F29384F001BE76B /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				E3AD63CB1F293900001BE76B /* hustle-on.wav */,
 				E3AD63B91F29384F001BE76B /* AppDelegate.swift */,
 				E3AD63BB1F29384F001BE76B /* ViewController.swift */,
 				E3AD63BD1F293850001BE76B /* Main.storyboard */,
